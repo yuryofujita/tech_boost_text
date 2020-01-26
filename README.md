@@ -1,1 +1,1 @@
-tech_boost_text
+# tech boostのlaravelテキストのメモ
