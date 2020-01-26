@@ -1,7 +1,7 @@
 # tech boostのlaravelテキストのメモ
 
-主にwikiの方に書いていきます。
-wikiはgitlabへ移動しました。
+主にwikiの方に書いていきます。  
+wikiはgitlabへ移動しました。  
 https://gitlab.com/yuryo.fujita/tech-boost-text/-/wikis/home
 
 ## local 作業パス
