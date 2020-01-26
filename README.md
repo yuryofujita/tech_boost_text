@@ -1,1 +1,3 @@
-tech_boost_text
+# tech boostのlaravelテキストのメモ
+
+主にwikiの方に書いていきます。
